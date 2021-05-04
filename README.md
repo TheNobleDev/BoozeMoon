@@ -1,2 +1,2 @@
 # BoozeMoon
-Repository for the token and the vesting smart contract
+Repository for the token smart contract
